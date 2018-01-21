@@ -61,6 +61,33 @@ namespace mysql_designer.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to MSG_NO_SHEET_SPECIFIED.
+        /// </summary>
+        internal static string MSG_NO_SHEET_SPECIFIED {
+            get {
+                return ResourceManager.GetString("MSG_NO_SHEET_SPECIFIED", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MSG_SHEET_CANNOT_FOUND.
+        /// </summary>
+        internal static string MSG_SHEET_CANNOT_FOUND {
+            get {
+                return ResourceManager.GetString("MSG_SHEET_CANNOT_FOUND", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MSG_TABLE_NAME_CELL_INDEX_CANNOT_BE_EMPTY.
+        /// </summary>
+        internal static string MSG_TABLE_NAME_CELL_INDEX_CANNOT_BE_EMPTY {
+            get {
+                return ResourceManager.GetString("MSG_TABLE_NAME_CELL_INDEX_CANNOT_BE_EMPTY", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
         internal static System.Drawing.Icon MySQL_Designer_btnAbout {

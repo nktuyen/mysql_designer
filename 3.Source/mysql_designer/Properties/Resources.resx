@@ -133,4 +133,13 @@
   <data name="MySQL_Designer_btnGenerate" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Generate.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="MSG_NO_SHEET_SPECIFIED" xml:space="preserve">
+    <value>MSG_NO_SHEET_SPECIFIED</value>
+  </data>
+  <data name="MSG_TABLE_NAME_CELL_INDEX_CANNOT_BE_EMPTY" xml:space="preserve">
+    <value>MSG_TABLE_NAME_CELL_INDEX_CANNOT_BE_EMPTY</value>
+  </data>
+  <data name="MSG_SHEET_CANNOT_FOUND" xml:space="preserve">
+    <value>MSG_SHEET_CANNOT_FOUND</value>
+  </data>
 </root>

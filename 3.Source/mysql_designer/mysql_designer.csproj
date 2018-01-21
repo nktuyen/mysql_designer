@@ -152,6 +152,7 @@
     can be found.
   -->
   <ItemGroup>
+    <Compile Include="Constants.cs" />
     <Compile Include="frmGenerator.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -159,6 +160,7 @@
       <DependentUpon>frmGenerator.cs</DependentUpon>
     </Compile>
     <Compile Include="ExcelHelper.cs" />
+    <Compile Include="Logger.cs" />
     <Compile Include="MySQLRibbon.cs">
       <SubType>Component</SubType>
     </Compile>
